@@ -6,6 +6,14 @@
     "isNew": "TRUE",
     "description": "Although the idea of dependency management ..."
   },
+  
+  {
+    "name": "Composer New",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "It's new description. Although the idea of dependency management ..."
+  },
   {
     "name": "Canary builds",
     "ring": "trial",
